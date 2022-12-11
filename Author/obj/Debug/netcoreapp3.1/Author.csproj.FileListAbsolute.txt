@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Author\Author\bin\Debug\netcoreapp3.1\Author.exe
+C:\Users\ASUS\Desktop\Author\Author\bin\Debug\netcoreapp3.1\Author.deps.json
+C:\Users\ASUS\Desktop\Author\Author\bin\Debug\netcoreapp3.1\Author.runtimeconfig.json
+C:\Users\ASUS\Desktop\Author\Author\bin\Debug\netcoreapp3.1\Author.runtimeconfig.dev.json
+C:\Users\ASUS\Desktop\Author\Author\bin\Debug\netcoreapp3.1\Author.dll
+C:\Users\ASUS\Desktop\Author\Author\bin\Debug\netcoreapp3.1\Author.pdb
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.dll
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.pdb
+C:\Users\ASUS\Desktop\Author\Author\obj\Debug\netcoreapp3.1\Author.genruntimeconfig.cache
